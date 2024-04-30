@@ -1,4 +1,4 @@
-# Calculate-Installments-Dates-and-Amounts-PLSQL\
+# Calculate-Installments-Dates-and-Amounts-PLSQL
 ## Project Description
 
 This PLSQL project calculates the installment dates and amounts for contracts. It also handles the first installment and adds all new data to a new table in the database schema.
